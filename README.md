@@ -11,6 +11,7 @@
 
 * [第1章：関数型プログラミングとは？](https://github.com/53ningen/fpinscala-ja/blob/master/%E7%AC%AC1%E7%AB%A0%EF%BC%9A%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%EF%BC%9F.md)
 * [第2章：はじめに](https://github.com/53ningen/fpinscala-ja/blob/master/%E7%AC%AC2%E7%AB%A0%EF%BC%9A%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB.md)
+* [第3章：関数型プログラミングのデータ構造](https://github.com/53ningen/fpinscala-ja/blob/master/%E7%AC%AC3%E7%AB%A0%EF%BC%9A%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0.md)
 
 # license
 
