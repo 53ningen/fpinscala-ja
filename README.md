@@ -1,9 +1,15 @@
 # fpinscala wiki-ja
 
-[fpinscala](https://github.com/fpinscala/fpinscala)のwikiページを日本語に翻訳しています(WIP)。
-誤訳等ありましたらPRをいただけると幸いです。
+* [fpinscala](https://github.com/fpinscala/fpinscala)のwikiページを日本語に翻訳しています(WIP)
+* fpinscala非公式の個人的翻訳です
+* 誤訳等ありましたらPRをいただけると幸いです。
+* fpinscalaのwikiページ自体はMITライセンスで提供されています
 
---------
+# index
+
+* [第1章：関数型プログラミングとは？](https://github.com/53ningen/fpinscala-ja/blob/master/%E7%AC%AC1%E7%AB%A0%EF%BC%9A%E9%96%A2%E6%95%B0%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+
+# license
 
 Copyright (c) 2012, Manning Publications, Co. 
 
